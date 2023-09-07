@@ -8,3 +8,7 @@ The AI-Enabled Content Revolution provides readers with practical insights into 
 Whether you are a marketer looking to enhance your content strategy, a content creator seeking to improve the effectiveness of your work, or an AI enthusiast interested in the intersection of technology and content, this book has something to offer. Join us on this journey through the AI-enabled content revolution and discover how you can use these powerful tools to take your content marketing to the next level.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
