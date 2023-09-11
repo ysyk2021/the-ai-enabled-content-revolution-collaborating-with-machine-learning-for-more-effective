@@ -1,5 +1,4 @@
-Chapter: Discussion of Ethical Considerations when Using AI in Content Creation
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the rapidly evolving landscape of content creation, the integration of AI, particularly machine learning, presents exciting opportunities. However, it is essential to engage in a thoughtful discussion about the ethical considerations associated with AI utilization in content creation. This chapter explores key ethical dimensions that arise when using AI for content creation and provides insights on navigating these considerations responsibly.
 

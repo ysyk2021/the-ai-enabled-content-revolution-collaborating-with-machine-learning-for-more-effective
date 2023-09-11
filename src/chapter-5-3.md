@@ -1,5 +1,4 @@
-Chapter: Potential Limitations and Ethical Considerations in Using AI for Content Performance Improvement
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The use of AI, specifically machine learning, in content creation offers numerous benefits for improving content performance. However, it is important to be aware of the potential limitations and ethical considerations that arise when leveraging AI in this context. In this chapter, we will explore some of these considerations and discuss how to navigate them responsibly.
 

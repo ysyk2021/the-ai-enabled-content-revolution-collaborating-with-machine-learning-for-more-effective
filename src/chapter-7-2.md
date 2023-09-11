@@ -1,5 +1,4 @@
-Chapter: Addressing Potential Biases in AI Algorithms
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the era of AI-enabled content creation, machine learning algorithms play a pivotal role in generating and curating content. However, it is essential to recognize and address potential biases that can arise in AI algorithms. This chapter examines the significance of addressing biases and provides insights into implementing strategies to mitigate bias in AI algorithms, ensuring fairness and inclusivity in content creation.
 
